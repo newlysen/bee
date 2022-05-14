@@ -1,0 +1,22 @@
+{
+    "name": "bee",
+    "description": "bee",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "a60d7a04-533e-40b3-982f-c688991392bf"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/newlysen/bee/",
+    "repository": "https://github.com/newlysen/bee",
+    "stack": "container"
+}
